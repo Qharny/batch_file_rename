@@ -24,8 +24,8 @@ Batch File Renamer is a powerful and flexible command-line tool written in Dart 
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/qharny/batch-file-renamer.git
-   cd batch-file-renamer
+   git clone https://github.com/qharny/batch_file_rename.git
+   cd batch_file_rename
    ```
 
 2. Install dependencies:
@@ -140,6 +140,6 @@ Please report any bugs or feature requests by opening an issue in the GitHub rep
 
 ## 🌐 Contact
 
-Your Name - youremail@example.com
+Manasseh Kabutey Manasseh - kabuteymanasseh5@gmail.com
 
-Project Link: [https://github.com/yourusername/batch-file-renamer](https://github.com/yourusername/batch-file-renamer)
+Project Link: [https://github.com/qharny/batch_file_rename](https://github.com/qharny/batch_file_rename)
